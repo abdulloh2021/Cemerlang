@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/drawable/selector.xml" value="0.2111111111111111" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_add.xml" value="0.1691995947315096" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_payment.xml" value="0.20260416666666667" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_profile.xml" value="0.20260416666666667" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_search.xml" value="0.44035087719298244" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/layout/activity_test.xml" value="0.20260416666666667" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/menu/menu_navigation.xml" value="0.19074074074074074" />
+        <entry key="..\:/JuaraCoding Pelatihan/Android Studio Data/Cemerlang/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
